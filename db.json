@@ -1,5 +1,5 @@
 {
-  "get-images-swipe": [
+  "get-images-swipe": 
     {
       "id": 1,
       "images": [
@@ -25,5 +25,5 @@
         }
       ] 
     }
-  ]
+  
 } 
